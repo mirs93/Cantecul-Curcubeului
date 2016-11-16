@@ -1,2 +1,3 @@
 # Cantecul-Curcubeului
-Un cantec despre Curcubeu
+Un cantec despre Curcubeu in C major.
+
